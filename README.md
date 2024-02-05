@@ -40,10 +40,10 @@ Skills
 
 Relevant Coursework
 -----
-Hydrogeology
-Global Biogeochemical Cycles
-Environmental Field Methods
-Geophysics
-Quantifying Environmental Change with Geospatial Data
-Soil and Soil Fertility Management
++ Hydrogeology
++ Global Biogeochemical Cycles
++ Environmental Field Methods
++ Geophysics
++ Quantifying Environmental Change with Geospatial Data
++ Soil and Soil Fertility Management
 
