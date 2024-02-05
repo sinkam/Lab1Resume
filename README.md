@@ -19,10 +19,10 @@ Farm Hand/Tour Guide *May 2023 - Present*
 Research Intern *Summer 2023*
 
 #### The Village Cafe
-Hostess/Busser April *2022 - November 2022*
+Hostess/Busser *April 2022 - November 2022*
 
 #### Weddings By Bluesky
-Lighting Assistant *March 2018 - December 2020 
+Lighting Assistant *March 2018 - December 2020* 
 
 Education
 ------
