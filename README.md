@@ -1,7 +1,7 @@
 
 
 Annika M. Sink
-=====
+-----
 
 <img src="Headshot_AnnikaSink.jpg" width='170'>
 
