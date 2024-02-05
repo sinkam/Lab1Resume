@@ -3,7 +3,7 @@
 Annika M. Sink
 =====
 
-<img src="/Headshot_AnnikaSink.jpg" width='170'>
+<img src="Headshot_AnnikaSink.jpg" width='170'>
 
 #### 305 Terrace Ln Boone, NC
 #### (336)926-**** 
