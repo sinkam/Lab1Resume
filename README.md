@@ -1,13 +1,13 @@
 
 
 Annika M. Sink
-=====
+
 
 <img src="Headshot_AnnikaSink.jpg" width='170'>
 
- #### 305 Terrace Ln Boone, NC
- #### (336)926-**** 
- #### Sinkam@appstate.edu
+ 305 Terrace Ln Boone, NC
+ (336)926-**** 
+ Sinkam@appstate.edu
 
 
 Job Experience
